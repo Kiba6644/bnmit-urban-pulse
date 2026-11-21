@@ -1,0 +1,36 @@
+{
+  "dataset": "PhonePe Pulse - Bangalore Quarterly UPI",
+  "period": "Normal (No Major Events)",
+  "pincode_data": [
+    {
+      "pincode": "560004",
+      "area": "Basavanagudi",
+      "total_transactions": 54200,
+      "total_volume_inr": 12500000
+    },
+    {
+      "pincode": "560011",
+      "area": "Jayanagar",
+      "total_transactions": 156000,
+      "total_volume_inr": 45000000
+    },
+    {
+      "pincode": "560070",
+      "area": "Banashankari",
+      "total_transactions": 128000,
+      "total_volume_inr": 31000000
+    },
+    {
+      "pincode": "560001",
+      "area": "MG Road / Ashok Nagar",
+      "total_transactions": 412000,
+      "total_volume_inr": 185000000
+    },
+    {
+      "pincode": "560037",
+      "area": "Marathahalli",
+      "total_transactions": 350000,
+      "total_volume_inr": 140000000
+    }
+  ]
+}

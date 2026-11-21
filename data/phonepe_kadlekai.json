@@ -1,0 +1,40 @@
+{
+  "dataset": "PhonePe Pulse - Bangalore Quarterly UPI",
+  "period": "Kadlekai Parishe Festival (Nov)",
+  "pincode_data": [
+    {
+      "pincode": "560004",
+      "area": "Basavanagudi",
+      "total_transactions": 385000,
+      "total_volume_inr": 48500000,
+      "insights": "Massive 600% spike in micro-transactions due to street vendors at the groundnut festival."
+    },
+    {
+      "pincode": "560011",
+      "area": "Jayanagar",
+      "total_transactions": 235000,
+      "total_volume_inr": 62000000,
+      "insights": "Spillover foot traffic from neighboring Basavanagudi festival."
+    },
+    {
+      "pincode": "560070",
+      "area": "Banashankari",
+      "total_transactions": 165000,
+      "total_volume_inr": 38000000
+    },
+    {
+      "pincode": "560001",
+      "area": "MG Road / Ashok Nagar",
+      "total_transactions": 415000,
+      "total_volume_inr": 186000000,
+      "insights": "Unaffected by festival."
+    },
+    {
+      "pincode": "560037",
+      "area": "Marathahalli",
+      "total_transactions": 348000,
+      "total_volume_inr": 139000000,
+      "insights": "Unaffected by festival."
+    }
+  ]
+}
